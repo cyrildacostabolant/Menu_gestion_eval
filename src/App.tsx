@@ -44,8 +44,6 @@ export default function App() {
             <motion.a
               key={app.name}
               href={app.url}
-              target="_blank"
-              rel="noopener noreferrer"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: index * 0.2 }}
