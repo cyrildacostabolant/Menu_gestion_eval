@@ -1,0 +1,5 @@
+{
+  "name": "Sélecteur d'Applications d'Évaluation",
+  "description": "Page de sélection pour les versions Convex et Supabase de l'application de gestion des évaluations.",
+  "requestFramePermissions": []
+}
