@@ -35,9 +35,6 @@ export default function App() {
         <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-6 pb-4 bg-clip-text text-transparent bg-linear-to-r from-blue-100 via-white to-slate-300 leading-tight">
           Applications de gestion des évaluations
         </h1>
-        <p className="text-slate-400 text-lg md:text-xl max-w-2xl mx-auto font-light">
-          Choisissez la plateforme que vous souhaitez utiliser.
-        </p>
       </motion.header>
 
       {/* Main Content - Simplified Buttons */}
